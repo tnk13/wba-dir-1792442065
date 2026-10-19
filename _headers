@@ -1,3 +1,3 @@
-/directory
-  Content-Type: application/http-message-signatures-directory+json
+/*
   X-Test: pwn
+  Content-Type: application/http-message-signatures-directory+json
