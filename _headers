@@ -1,4 +1,3 @@
-/.well-known/http-message-signatures-directory
+/directory
   Content-Type: application/http-message-signatures-directory+json
-/jwks.json
-  Content-Type: application/http-message-signatures-directory+json
+  X-Test: pwn
