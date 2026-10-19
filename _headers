@@ -1,0 +1,3 @@
+/.well-known/http-message-signatures-directory
+  Content-Type: application/http-message-signatures-directory+json
+  X-Content-Type-Options: nosniff
